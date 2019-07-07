@@ -1,0 +1,5 @@
+0. Descargar y descomprimir el código fuente en la raíz de servir local -
+ Xampp (Htdocs) /  Wampp (www)
+0.1. Descomprimir y exportar la estructura de base de datos al phpMyAdmin del servidor local (Bd.sql). 
+1. Editar información de conexión en el archivo config/config.ini.php esto según el usuario, servidor y clave del servidor local; la base de datos es (goodSystem)
+ 1.1 Registra un usuario administrador en la tabla goodsAdministrator.
